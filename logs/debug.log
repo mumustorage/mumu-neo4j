@@ -1,0 +1,26 @@
+2017-09-20 16:08:34,345 ERROR[com.lovecws.mumu.neo4j.node.Neo4jNode:70] - org.neo4j.graphdb.NotFoundException: Node 1 not found
+2017-09-20 16:09:51,583 INFO[com.lovecws.mumu.neo4j.node.Neo4jNode:46] - Node[8]
+2017-09-20 16:12:44,418 ERROR[com.lovecws.mumu.neo4j.node.Neo4jNode:71] - org.neo4j.graphdb.NotFoundException: Node 8 not found
+2017-09-20 16:13:22,196 INFO[com.lovecws.mumu.neo4j.node.Neo4jNode:47] - 鑺傜偣淇℃伅:Node[9]
+2017-09-20 16:15:34,214 INFO[com.lovecws.mumu.neo4j.node.Neo4jNode:30] - 鑺傜偣娣诲姞鎴愬姛:Node[10]
+2017-09-20 16:15:34,227 INFO[com.lovecws.mumu.neo4j.node.Neo4jNode:47] - 鑺傜偣淇℃伅:Node[10]
+2017-09-20 16:21:50,127 INFO[com.lovecws.mumu.neo4j.relationship.Neo4jRelationship:33] - 鑺傜偣鍏崇郴寤虹珛鎴愬姛
+2017-09-20 16:30:00,065 INFO[com.lovecws.mumu.neo4j.relationship.Neo4jRelationship:34] - 鑺傜偣鍏崇郴寤虹珛鎴愬姛
+2017-09-20 16:31:01,995 INFO[com.lovecws.mumu.neo4j.relationship.Neo4jRelationship:33] - 鑺傜偣鍏崇郴寤虹珛鎴愬姛
+2017-09-20 16:31:23,897 INFO[com.lovecws.mumu.neo4j.relationship.Neo4jRelationship:33] - 鑺傜偣鍏崇郴寤虹珛鎴愬姛
+2017-09-20 16:31:51,398 INFO[com.lovecws.mumu.neo4j.relationship.Neo4jRelationship:33] - 鑺傜偣鍏崇郴寤虹珛鎴愬姛
+2017-09-20 16:33:05,910 INFO[com.lovecws.mumu.neo4j.relationship.Neo4jRelationship:35] - 鑺傜偣鍏崇郴寤虹珛鎴愬姛
+2017-09-20 16:34:56,486 INFO[com.lovecws.mumu.neo4j.relationship.Neo4jRelationship:35] - 鑺傜偣鍏崇郴寤虹珛鎴愬姛
+2017-09-20 16:35:11,982 INFO[com.lovecws.mumu.neo4j.relationship.Neo4jRelationship:35] - 鑺傜偣鍏崇郴寤虹珛鎴愬姛
+2017-09-20 16:36:10,065 INFO[com.lovecws.mumu.neo4j.relationship.Neo4jRelationship:35] - 鑺傜偣鍏崇郴寤虹珛鎴愬姛
+2017-09-20 17:11:56,753 INFO[net.sourceforge.cobertura.coveragedata.CoverageDataFileHandler:86] - Cobertura: Loaded information on 4 classes.
+2017-09-20 17:11:56,763 INFO[net.sourceforge.cobertura.coveragedata.CoverageDataFileHandler:138] - Cobertura: Saved information on 4 classes.
+2017-09-20 17:14:32,485 INFO[net.sourceforge.cobertura.coveragedata.CoverageDataFileHandler:86] - Cobertura: Loaded information on 4 classes.
+2017-09-20 17:14:32,494 INFO[net.sourceforge.cobertura.coveragedata.CoverageDataFileHandler:138] - Cobertura: Saved information on 4 classes.
+2017-09-20 17:16:19,746 INFO[com.lovecws.mumu.neo4j.node.Neo4jNode:30] - 节点添加成功:Node[0]
+2017-09-20 17:16:19,752 INFO[com.lovecws.mumu.neo4j.node.Neo4jNode:47] - 节点信息:Node[0]
+2017-09-20 17:16:19,756 ERROR[com.lovecws.mumu.neo4j.node.Neo4jNode:70] - org.neo4j.graphdb.NotFoundException: Node 8 not found
+2017-09-20 17:16:19,756 INFO[com.lovecws.mumu.neo4j.node.Neo4jNode:47] - 节点信息:Node[0]
+2017-09-20 17:16:20,619 INFO[com.lovecws.mumu.neo4j.relationship.Neo4jRelationship:35] - 节点关系建立成功
+2017-09-20 17:16:21,708 INFO[net.sourceforge.cobertura.coveragedata.CoverageDataFileHandler:86] - Cobertura: Loaded information on 4 classes.
+2017-09-20 17:16:21,721 INFO[net.sourceforge.cobertura.coveragedata.CoverageDataFileHandler:138] - Cobertura: Saved information on 4 classes.
