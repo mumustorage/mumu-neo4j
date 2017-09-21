@@ -1,53 +1,30 @@
 ---
-layout: page
-title: 关于我 
+layout: default
+title: "关于：About"
 ---
 
-一个 iOS SDK 开发者，喜欢研究一些新技术。
-<p>
-平时喜欢整理个人博客，逛逛技术论坛。
-<p>
-了解一些 前端 基本概念和 Python 的简单用法。
+## 个人简介：
 
-<p>
+* 欧阳利平
+* Web后台开发、Android应用开发爱好者
+* 来自江西 现居广州
 
-所在公司
-<a target="_blank" href="https://www.talkingdata.com/"> TalkingData </a>
-是一个移动互联网大数据平台的公司，无论你是运营、产品、开发 或者是App终端用户都可以了解下我们公司。
-<p>
+## 联系方式
 
-推荐一个我维护的 Team 博客
-<a target="_blank" href="http://talkingdata.me/"> voyagelab </a>
-里面有一些关于 iOS 、Android 和 机器学习 的文章。
+<p class="contact">
+ <a href="http://weibo.com/ouyanglip" title="微博联系我"><img src="http://www.sinaimg.cn/blog/developer/wiki/LOGO_32x32.png" width="24" height="24" style="display:inline-block;vertical-align:middle"></a><br/>
+        <a href="http://www.zhihu.com/people/lippi-ouyang" title="知乎联系我"><img src="http://www.zhihu.com/favicon.ico" width="24" height="24" style="display:inline-block;vertical-align:middle"></a><br/>
+ <a href="https://github.com/LippiOuYang" title="Github联系我"><img src="http://www.github.com/favicon.ico" width="24" height="24" style="display:inline-block;vertical-align:middle"></a><br/>
+邮箱: ouyanglip@gmail.com 
+</p>
 
-<p>
+### 关于本站：
 
-<h3> 我们的博客 </h3>  
+* 搭建于[Github](https://github.com/LippiOuYang/LippiOuYang.github.io),欢迎Fork
+* 模板及样式来源[Useful Paradigm](http://usefulparadigm.com/)
+* 折腾开始于2014年6月1日，基本在2014年6月15日完工。
 
-<p>
-
-是的，这个博客是我们大家的，目前已经有很大一部分人在使用我的博客模板了，我也很高兴大家使用我的模板。
-
-<p>
-
-如果你想搭建一个跟我一样的博客，可以看我的 
-<a href="/2016/10/jekyll_tutorials1/"> Jekyll 搭建个人博客 </a>
-教程
-
-<p>
-
-有关于博客主题的建议和意见都可以提给我，让我们一起来打造一个精美的主题吧~ 
-
-<p> 
-
-博客源码在 <a target="_blank" href='https://github.com/leopardpan/leopardpan.github.io/'>Github</a> 上，你的 Star 是我更新的动力，谢谢~
-
-<p> 
-
-<p> 
-
-<p> 
-
-
-{% include comments.html %}
-
+## 其他流言
+* 未**女昏**人士；
+* 阿森纳球迷；
+* 实况足球忠实粉丝；
